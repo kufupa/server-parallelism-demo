@@ -12,6 +12,6 @@
   "description": "",
   "dependencies": {
     "express": "^5.1.0",
-    "mssql": "^9.2.1"
+    "mssql": "^9.3.2"
   }
 }
