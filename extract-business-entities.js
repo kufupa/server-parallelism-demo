@@ -173,7 +173,7 @@ function getLineVisualization(strength, volume) {
     // ===== 3. EXTRACT SUPPLIER TO CUSTOMER CONNECTIONS =====
     console.log('3. Extracting supplier-to-customer connections...');
     const connectionResult = await pool.request().query(`
-      SELECT TOP 30
+      SELECT
         s.SupplierID,
         s.SupplierName,
         cs.CityName as SupplierCity,

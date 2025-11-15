@@ -117,8 +117,20 @@ app.get('/api/locations/:id', (req, res) => {
         if (err2) return res.status(500).json({ error: err2.message });
         if (!customer) return res.status(404).json({ error: 'Location not found' });
 
-        const location = transformCustomer(customer);
-        res.json({ location });
+        // Get incoming connections for this customer
+        db.all('SELECT * FROM connections WHERE to_id = ?', [id], (err3, connections) => {
+          if (err3) return res.status(500).json({ error: err3.message });
+
+          const location = transformCustomer(customer);
+          location.connections = connections.map(c => ({
+            sourceId: c.from_id,
+            volume: parseFloat(c.volume || 0),
+            products: c.product_count,
+            invoices: c.transaction_count
+          }));
+
+          res.json({ location });
+        });
       });
     }
   });
@@ -209,6 +221,39 @@ app.get('/api/stats', (req, res) => {
 });
 
 /**
+ * GET /api/supplier-exclusivity
+ * Get supplier count for each customer (for connection reliability scoring)
+ * Red (exclusive/1 supplier) → Green (many suppliers)
+ */
+app.get('/api/supplier-exclusivity', (req, res) => {
+  db.all(`
+    SELECT
+      to_id as customer_id,
+      COUNT(DISTINCT from_id) as supplier_count,
+      MAX(volume) as max_volume
+    FROM connections
+    GROUP BY to_id
+  `, (err, rows) => {
+    if (err) return res.status(500).json({ error: err.message });
+
+    // Create a map for fast lookup
+    const exclusivityMap = {};
+    rows.forEach(row => {
+      exclusivityMap[row.customer_id] = {
+        supplierCount: row.supplier_count,
+        maxVolume: row.max_volume
+      };
+    });
+
+    res.json({
+      exclusivity: exclusivityMap,
+      count: rows.length,
+      totalConnections: rows.reduce((sum, row) => sum + row.supplier_count, 0)
+    });
+  });
+});
+
+/**
  * GET /api/health
  * Health check endpoint
  */
@@ -232,6 +277,7 @@ app.listen(PORT, () => {
   console.log(`   GET /api/locations/:id - Single location`);
   console.log(`   GET /api/connections - All connections`);
   console.log(`   GET /api/connections?type=state_to_state - Trade routes`);
+  console.log(`   GET /api/supplier-exclusivity - Supplier count per customer (for connection colors)`);
   console.log(`   GET /api/stats - Overall statistics`);
   console.log(`   GET /api/health - Health check\n`);
 });

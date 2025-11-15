@@ -269,8 +269,43 @@ npx playwright test
 
 ---
 
-**Last Updated**: 2025-11-15 13:36 UTC
+## Phase 7: Enhanced Connections Visualization ✅
+
+**Status**: Completed - Connections fully visible on map
+
+**What was implemented**:
+1. ✅ Click any location to fetch full details with all connections
+2. ✅ View "Show Connections" button in detail panel
+3. ✅ All 30 connections render on map by default with purple lines
+4. ✅ Toggle button added to Dock to show/hide all connections
+5. ✅ Individual connections can be toggled per location
+6. ✅ Updated terminology: "warehouse"→"supplier", "consumer"→"customer"
+
+**Features**:
+- **Blue Button** (Suppliers): Toggle supplier markers on/off
+- **Orange Button** (Customers): Toggle customer markers on/off
+- **Purple Button** (Connections): Toggle ALL supply chain connections on/off
+- **Click Location**: See detailed panel with connections for that specific location
+- **Connection Lines**: Volume-weighted, interactive on hover
+
+**Visual Improvements**:
+- Colored badge with emoji in detail panel (📦 Supplier / 👥 Customer)
+- Loading skeleton while fetching location details
+- Glowing button effects showing active state
+- Subtle, semi-transparent connection lines (30% opacity)
+- Highlight on hover with increased opacity
+
+**Files Modified**:
+- `src/hooks/useLocations.ts` - Added useLocationDetail() and useConnections() hooks
+- `src/components/MapView.tsx` - Fetch location on click, render all connections
+- `src/components/LocationDetails.tsx` - Fixed terminology, added loading state
+- `src/components/Dock.tsx` - Added purple Connections toggle button
+
+---
+
+**Last Updated**: 2025-11-15 13:50 UTC
 **Backend Status**: 🟢 Running on port 3000 (Node.js + Express + SQLite)
 **Frontend Status**: 🟢 Running on port 8080 (Vite + React 18 + TypeScript)
 **Integration Status**: 🟢 FULLY INTEGRATED & TESTED
+**Connections**: 🟢 All 30 connections visible and interactive
 **Test Results**: 🟢 All integration tests passing (7/7)
