@@ -1,0 +1,25 @@
+✓ SQL Server initialization deferred (activate manually if needed)
+
+🚀 Supply Chain API Server running on http://localhost:3000
+
+📍 Available endpoints:
+
+   EXISTING ENDPOINTS:
+   GET /api/locations - All locations (suppliers + customers)
+   GET /api/locations?type=supplier - Suppliers only
+   GET /api/locations?type=customer&limit=100 - Top 100 customers
+   GET /api/locations/:id - Single location
+   GET /api/connections - All connections
+   GET /api/connections?type=state_to_state - Trade routes
+   GET /api/supplier-exclusivity - Supplier count per customer
+   GET /api/stats - Overall statistics
+   GET /api/health - Health check
+
+   NEW LLM & CUSTOMER INTELLIGENCE ENDPOINTS:
+   POST /api/llm/parse-query - Parse natural language to filters
+   GET /api/customers/:id/orders - Customer order history
+   GET /api/customers/:id/products - Product breakdown with profit
+   POST /api/llm/product-overview - Generate product overview
+   POST /api/llm/discount-strategy - Get discount recommendations
+
+Connected to SQLite database

@@ -1,8 +1,11 @@
+require('dotenv').config();
 const express = require('express');
 const sqlite3 = require('sqlite3').verbose();
 const path = require('path');
 const cors = require('cors');
 const { transformSupplier, transformCustomer, attachConnectionsToLocations } = require('./api-transform');
+const { initializePool, getCustomerOrders, getCustomerProducts, getCustomerInvoices, closePool } = require('./sql-server-client');
+const { parseQueryToFilters, generateProductOverview, suggestDiscountStrategy } = require('./llm-service');
 
 const app = express();
 const PORT = 3000;
@@ -18,8 +21,24 @@ const db = new sqlite3.Database(dbPath, (err) => {
     console.error('Database connection error:', err);
     process.exit(1);
   }
-  console.log('Connected to SQLite database\n');
+  console.log('Connected to SQLite database');
 });
+
+// SQL Server Connection Pool (initialize when server starts)
+let sqlPoolReady = false;
+(async () => {
+  try {
+    if (process.env.ANTHROPIC_API_KEY) {
+      // Only initialize if Anthropic key is available
+      // SQL Server is optional for basic functionality
+      // await initializePool();
+      // sqlPoolReady = true;
+      console.log('✓ SQL Server initialization deferred (activate manually if needed)');
+    }
+  } catch (err) {
+    console.warn('SQL Server pool initialization failed (optional feature):', err.message);
+  }
+})();
 
 /**
  * GET /api/locations
@@ -261,6 +280,200 @@ app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', port: PORT });
 });
 
+// ============================================
+// NEW LLM & SQL SERVER ENDPOINTS
+// ============================================
+
+/**
+ * POST /api/llm/parse-query
+ * Parse natural language query to extract filters
+ * Body: { query: string }
+ * Returns: { filters: Object }
+ */
+app.post('/api/llm/parse-query', async (req, res) => {
+  try {
+    const { query } = req.body;
+    if (!query) {
+      return res.status(400).json({ error: 'Query is required' });
+    }
+
+    if (!process.env.ANTHROPIC_API_KEY) {
+      return res.status(503).json({ error: 'LLM service not configured (missing ANTHROPIC_API_KEY)' });
+    }
+
+    // Get stats for context
+    db.get('SELECT COUNT(*) as totalSuppliers FROM suppliers', (err1, supplierStats) => {
+      if (err1) return res.status(500).json({ error: err1.message });
+
+      db.get('SELECT COUNT(*) as totalCustomers FROM customers', (err2, customerStats) => {
+        if (err2) return res.status(500).json({ error: err2.message });
+
+        const availableData = {
+          totalSuppliers: supplierStats?.totalSuppliers || 0,
+          totalCustomers: customerStats?.totalCustomers || 0
+        };
+
+        parseQueryToFilters(query, availableData)
+          .then(filters => res.json({ filters }))
+          .catch(err => {
+            console.error('LLM query parsing error:', err);
+            res.status(500).json({ error: `Failed to parse query: ${err.message}` });
+          });
+      });
+    });
+  } catch (err) {
+    console.error('Error in /api/llm/parse-query:', err);
+    res.status(500).json({ error: err.message });
+  }
+});
+
+/**
+ * GET /api/customers/:id/orders
+ * Fetch order history for a customer from SQL Server
+ * Query params:
+ *   - limit: number (default 50)
+ * Returns: { orders: Array }
+ */
+app.get('/api/customers/:id/orders', async (req, res) => {
+  try {
+    const { id } = req.params;
+
+    if (!sqlPoolReady && !process.env.DB_HOST) {
+      // Fallback: return mock data or SQLite aggregates
+      return res.json({
+        orders: [],
+        message: 'SQL Server not available - returning cached data',
+        note: 'To enable full order history, configure SQL Server connection'
+      });
+    }
+
+    // Try SQL Server first
+    try {
+      const orders = await getCustomerOrders(parseInt(id));
+      return res.json({ orders, source: 'SQL Server' });
+    } catch (sqlErr) {
+      console.warn('SQL Server query failed, using fallback:', sqlErr.message);
+      // Fallback to SQLite aggregates
+      db.all(
+        `SELECT * FROM connections WHERE to_id = ? ORDER BY volume DESC LIMIT 50`,
+        [id],
+        (err, connections) => {
+          if (err) return res.status(500).json({ error: err.message });
+          res.json({
+            orders: connections.map(c => ({
+              connectionId: c.from_id,
+              volume: c.volume,
+              products: c.product_count,
+              transactions: c.transaction_count
+            })),
+            source: 'SQLite (cached)'
+          });
+        }
+      );
+    }
+  } catch (err) {
+    console.error('Error in /api/customers/:id/orders:', err);
+    res.status(500).json({ error: err.message });
+  }
+});
+
+/**
+ * GET /api/customers/:id/products
+ * Fetch product breakdown for a customer with profit data
+ * Returns: { products: Array }
+ */
+app.get('/api/customers/:id/products', async (req, res) => {
+  try {
+    const { id } = req.params;
+
+    if (!sqlPoolReady && !process.env.DB_HOST) {
+      // Fallback
+      return res.json({
+        products: [],
+        message: 'SQL Server not available',
+        note: 'Configure ANTHROPIC_API_KEY and SQL Server connection to enable this feature'
+      });
+    }
+
+    // Try SQL Server first
+    try {
+      const products = await getCustomerProducts(parseInt(id));
+      return res.json({ products, source: 'SQL Server' });
+    } catch (sqlErr) {
+      console.warn('SQL Server query failed:', sqlErr.message);
+      // Fallback: return empty array with message
+      res.json({
+        products: [],
+        source: 'SQLite (limited)',
+        message: 'Detailed product breakdown requires SQL Server connection'
+      });
+    }
+  } catch (err) {
+    console.error('Error in /api/customers/:id/products:', err);
+    res.status(500).json({ error: err.message });
+  }
+});
+
+/**
+ * POST /api/llm/product-overview
+ * Generate LLM-based product overview for a customer
+ * Body: { customerId: number, customerName: string, products: Array }
+ * Returns: { overview: Object }
+ */
+app.post('/api/llm/product-overview', async (req, res) => {
+  try {
+    const { customerName, products } = req.body;
+
+    if (!customerName || !products) {
+      return res.status(400).json({ error: 'customerName and products are required' });
+    }
+
+    if (!process.env.ANTHROPIC_API_KEY) {
+      return res.status(503).json({ error: 'LLM service not configured' });
+    }
+
+    generateProductOverview(customerName, products)
+      .then(overview => res.json({ overview }))
+      .catch(err => {
+        console.error('Product overview generation error:', err);
+        res.status(500).json({ error: `Failed to generate overview: ${err.message}` });
+      });
+  } catch (err) {
+    console.error('Error in /api/llm/product-overview:', err);
+    res.status(500).json({ error: err.message });
+  }
+});
+
+/**
+ * POST /api/llm/discount-strategy
+ * Suggest discount strategy using LLM to maximize profit
+ * Body: { customerId: number, customerName: string, products: Array, currentProfit: number }
+ * Returns: { suggestions: Array }
+ */
+app.post('/api/llm/discount-strategy', async (req, res) => {
+  try {
+    const { customerName, products, currentProfit = 0 } = req.body;
+
+    if (!customerName || !products) {
+      return res.status(400).json({ error: 'customerName and products are required' });
+    }
+
+    if (!process.env.ANTHROPIC_API_KEY) {
+      return res.status(503).json({ error: 'LLM service not configured' });
+    }
+
+    suggestDiscountStrategy(customerName, products, currentProfit)
+      .then(suggestions => res.json({ suggestions }))
+      .catch(err => {
+        console.error('Discount strategy error:', err);
+        res.status(500).json({ error: `Failed to generate suggestions: ${err.message}` });
+      });
+  } catch (err) {
+    console.error('Error in /api/llm/discount-strategy:', err);
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // Error handling
 app.use((err, req, res, next) => {
   console.error(err);
@@ -271,15 +484,28 @@ app.use((err, req, res, next) => {
 app.listen(PORT, () => {
   console.log(`\n🚀 Supply Chain API Server running on http://localhost:${PORT}`);
   console.log('\n📍 Available endpoints:');
+  console.log('\n   EXISTING ENDPOINTS:');
   console.log(`   GET /api/locations - All locations (suppliers + customers)`);
   console.log(`   GET /api/locations?type=supplier - Suppliers only`);
   console.log(`   GET /api/locations?type=customer&limit=100 - Top 100 customers`);
   console.log(`   GET /api/locations/:id - Single location`);
   console.log(`   GET /api/connections - All connections`);
   console.log(`   GET /api/connections?type=state_to_state - Trade routes`);
-  console.log(`   GET /api/supplier-exclusivity - Supplier count per customer (for connection colors)`);
+  console.log(`   GET /api/supplier-exclusivity - Supplier count per customer`);
   console.log(`   GET /api/stats - Overall statistics`);
-  console.log(`   GET /api/health - Health check\n`);
+  console.log(`   GET /api/health - Health check`);
+
+  console.log('\n   NEW LLM & CUSTOMER INTELLIGENCE ENDPOINTS:');
+  console.log(`   POST /api/llm/parse-query - Parse natural language to filters`);
+  console.log(`   GET /api/customers/:id/orders - Customer order history`);
+  console.log(`   GET /api/customers/:id/products - Product breakdown with profit`);
+  console.log(`   POST /api/llm/product-overview - Generate product overview`);
+  console.log(`   POST /api/llm/discount-strategy - Get discount recommendations\n`);
+
+  if (!process.env.ANTHROPIC_API_KEY) {
+    console.log('⚠️  ANTHROPIC_API_KEY not set - LLM features disabled');
+    console.log('   Set ANTHROPIC_API_KEY in .env to enable natural language queries\n');
+  }
 });
 
 process.on('SIGINT', () => {
