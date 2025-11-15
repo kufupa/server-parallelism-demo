@@ -1,0 +1,562 @@
+[
+  {
+    "id": "CA-TX-0",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "TX",
+      "name": "Texas"
+    },
+    "metrics": {
+      "volume": 8038785.58,
+      "transactionCount": 3252,
+      "customerCount": 46,
+      "productCount": 67,
+      "strength": 1
+    },
+    "visualization": {
+      "lineWidth": 12,
+      "lineColor": "#ff6600",
+      "opacity": 1,
+      "dashArray": null,
+      "label": "CA → TX | $8.0M | 46 customers"
+    }
+  },
+  {
+    "id": "CA-PA-1",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "PA",
+      "name": "Pennsylvania"
+    },
+    "metrics": {
+      "volume": 6600832.2,
+      "transactionCount": 2609,
+      "customerCount": 37,
+      "productCount": 67,
+      "strength": 0.8211230582418396
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8926738349451038,
+      "dashArray": null,
+      "label": "CA → PA | $6.6M | 37 customers"
+    }
+  },
+  {
+    "id": "CA-NY-2",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "NY",
+      "name": "New York"
+    },
+    "metrics": {
+      "volume": 6070205.42,
+      "transactionCount": 2380,
+      "customerCount": 35,
+      "productCount": 67,
+      "strength": 0.7551147321434092
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8530688392860455,
+      "dashArray": null,
+      "label": "CA → NY | $6.1M | 35 customers"
+    }
+  },
+  {
+    "id": "CA-FL-3",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "FL",
+      "name": "Florida"
+    },
+    "metrics": {
+      "volume": 3983373.28,
+      "transactionCount": 1550,
+      "customerCount": 21,
+      "productCount": 67,
+      "strength": 0.49551928464299205
+    },
+    "visualization": {
+      "lineWidth": 6,
+      "lineColor": "#ffcc00",
+      "opacity": 0.6973115707857953,
+      "dashArray": null,
+      "label": "CA → FL | $4.0M | 21 customers"
+    }
+  },
+  {
+    "id": "CA-OH-4",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "OH",
+      "name": "Ohio"
+    },
+    "metrics": {
+      "volume": 3872999.21,
+      "transactionCount": 1536,
+      "customerCount": 21,
+      "productCount": 67,
+      "strength": 0.4817890925758465
+    },
+    "visualization": {
+      "lineWidth": 6,
+      "lineColor": "#ffcc00",
+      "opacity": 0.6890734555455079,
+      "dashArray": null,
+      "label": "CA → OH | $3.9M | 21 customers"
+    }
+  },
+  {
+    "id": "KY-TX-5",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "KY",
+      "name": "Kentucky"
+    },
+    "to": {
+      "type": "state",
+      "code": "TX",
+      "name": "Texas"
+    },
+    "metrics": {
+      "volume": 3759323.55,
+      "transactionCount": 3470,
+      "customerCount": 46,
+      "productCount": 74,
+      "strength": 0.46764819295006
+    },
+    "visualization": {
+      "lineWidth": 6,
+      "lineColor": "#ffcc00",
+      "opacity": 0.680588915770036,
+      "dashArray": null,
+      "label": "KY → TX | $3.8M | 46 customers"
+    }
+  },
+  {
+    "id": "CA-NJ-6",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "NJ",
+      "name": "New Jersey"
+    },
+    "metrics": {
+      "volume": 3497418.19,
+      "transactionCount": 1397,
+      "customerCount": 18,
+      "productCount": 67,
+      "strength": 0.4350679782654434
+    },
+    "visualization": {
+      "lineWidth": 6,
+      "lineColor": "#ffcc00",
+      "opacity": 0.661040786959266,
+      "dashArray": null,
+      "label": "CA → NJ | $3.5M | 18 customers"
+    }
+  },
+  {
+    "id": "CA-MN-7",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "MN",
+      "name": "Minnesota"
+    },
+    "metrics": {
+      "volume": 3480409.16,
+      "transactionCount": 1328,
+      "customerCount": 19,
+      "productCount": 67,
+      "strength": 0.4329521076739554
+    },
+    "visualization": {
+      "lineWidth": 6,
+      "lineColor": "#ffcc00",
+      "opacity": 0.6597712646043732,
+      "dashArray": null,
+      "label": "CA → MN | $3.5M | 19 customers"
+    }
+  },
+  {
+    "id": "CA-MO-8",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "MO",
+      "name": "Missouri"
+    },
+    "metrics": {
+      "volume": 3341487.01,
+      "transactionCount": 1307,
+      "customerCount": 18,
+      "productCount": 67,
+      "strength": 0.4156706229748698
+    },
+    "visualization": {
+      "lineWidth": 5,
+      "lineColor": "#ffcc00",
+      "opacity": 0.6494023737849219,
+      "dashArray": null,
+      "label": "CA → MO | $3.3M | 18 customers"
+    }
+  },
+  {
+    "id": "CA-NM-9",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "NM",
+      "name": "New Mexico"
+    },
+    "metrics": {
+      "volume": 3108295.38,
+      "transactionCount": 1301,
+      "customerCount": 18,
+      "productCount": 67,
+      "strength": 0.3866623072685563
+    },
+    "visualization": {
+      "lineWidth": 5,
+      "lineColor": "#ffcc00",
+      "opacity": 0.6319973843611338,
+      "dashArray": null,
+      "label": "CA → NM | $3.1M | 18 customers"
+    }
+  },
+  {
+    "id": "KY-PA-10",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "KY",
+      "name": "Kentucky"
+    },
+    "to": {
+      "type": "state",
+      "code": "PA",
+      "name": "Pennsylvania"
+    },
+    "metrics": {
+      "volume": 3071844.35,
+      "transactionCount": 2815,
+      "customerCount": 37,
+      "productCount": 74,
+      "strength": 0.38212791216157804
+    },
+    "visualization": {
+      "lineWidth": 5,
+      "lineColor": "#ffcc00",
+      "opacity": 0.6292767472969468,
+      "dashArray": null,
+      "label": "KY → PA | $3.1M | 37 customers"
+    }
+  },
+  {
+    "id": "CA-OK-11",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "OK",
+      "name": "Oklahoma"
+    },
+    "metrics": {
+      "volume": 3067946.05,
+      "transactionCount": 1233,
+      "customerCount": 19,
+      "productCount": 67,
+      "strength": 0.3816429757291772
+    },
+    "visualization": {
+      "lineWidth": 5,
+      "lineColor": "#ffcc00",
+      "opacity": 0.6289857854375063,
+      "dashArray": null,
+      "label": "CA → OK | $3.1M | 19 customers"
+    }
+  },
+  {
+    "id": "CA-NC-12",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "NC",
+      "name": "North Carolina"
+    },
+    "metrics": {
+      "volume": 3042612.59,
+      "transactionCount": 1164,
+      "customerCount": 18,
+      "productCount": 67,
+      "strength": 0.3784915718575491
+    },
+    "visualization": {
+      "lineWidth": 5,
+      "lineColor": "#ffcc00",
+      "opacity": 0.6270949431145295,
+      "dashArray": null,
+      "label": "CA → NC | $3.0M | 18 customers"
+    }
+  },
+  {
+    "id": "CA-IL-13",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "IL",
+      "name": "Illinois"
+    },
+    "metrics": {
+      "volume": 2972462.62,
+      "transactionCount": 1205,
+      "customerCount": 19,
+      "productCount": 67,
+      "strength": 0.3697651331060879
+    },
+    "visualization": {
+      "lineWidth": 5,
+      "lineColor": "#ffcc00",
+      "opacity": 0.6218590798636527,
+      "dashArray": null,
+      "label": "CA → IL | $3.0M | 19 customers"
+    }
+  },
+  {
+    "id": "CA-CO-14",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "CO",
+      "name": "Colorado"
+    },
+    "metrics": {
+      "volume": 2935262.24,
+      "transactionCount": 1211,
+      "customerCount": 18,
+      "productCount": 67,
+      "strength": 0.36513752118264614
+    },
+    "visualization": {
+      "lineWidth": 5,
+      "lineColor": "#ffcc00",
+      "opacity": 0.6190825127095877,
+      "dashArray": null,
+      "label": "CA → CO | $2.9M | 18 customers"
+    }
+  },
+  {
+    "id": "CA-WA-15",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "WA",
+      "name": "Washington"
+    },
+    "metrics": {
+      "volume": 2900537.17,
+      "transactionCount": 1102,
+      "customerCount": 17,
+      "productCount": 67,
+      "strength": 0.3608178301479214
+    },
+    "visualization": {
+      "lineWidth": 5,
+      "lineColor": "#ffcc00",
+      "opacity": 0.6164906980887529,
+      "dashArray": null,
+      "label": "CA → WA | $2.9M | 17 customers"
+    }
+  },
+  {
+    "id": "KY-CA-16",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "KY",
+      "name": "Kentucky"
+    },
+    "to": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "metrics": {
+      "volume": 2867851.6,
+      "transactionCount": 2659,
+      "customerCount": 33,
+      "productCount": 74,
+      "strength": 0.35675184658924564
+    },
+    "visualization": {
+      "lineWidth": 5,
+      "lineColor": "#ffcc00",
+      "opacity": 0.6140511079535473,
+      "dashArray": null,
+      "label": "KY → CA | $2.9M | 33 customers"
+    }
+  },
+  {
+    "id": "CA-AL-17",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "AL",
+      "name": "Alabama"
+    },
+    "metrics": {
+      "volume": 2723062.47,
+      "transactionCount": 1064,
+      "customerCount": 16,
+      "productCount": 67,
+      "strength": 0.33874052777011626
+    },
+    "visualization": {
+      "lineWidth": 5,
+      "lineColor": "#ffcc00",
+      "opacity": 0.6032443166620698,
+      "dashArray": null,
+      "label": "CA → AL | $2.7M | 16 customers"
+    }
+  },
+  {
+    "id": "KY-NY-18",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "KY",
+      "name": "Kentucky"
+    },
+    "to": {
+      "type": "state",
+      "code": "NY",
+      "name": "New York"
+    },
+    "metrics": {
+      "volume": 2642512.55,
+      "transactionCount": 2508,
+      "customerCount": 35,
+      "productCount": 74,
+      "strength": 0.3287203674861545
+    },
+    "visualization": {
+      "lineWidth": 4,
+      "lineColor": "#ffcc00",
+      "opacity": 0.5972322204916927,
+      "dashArray": null,
+      "label": "KY → NY | $2.6M | 35 customers"
+    }
+  },
+  {
+    "id": "CA-SC-19",
+    "type": "state_to_state",
+    "from": {
+      "type": "state",
+      "code": "CA",
+      "name": "California"
+    },
+    "to": {
+      "type": "state",
+      "code": "SC",
+      "name": "South Carolina"
+    },
+    "metrics": {
+      "volume": 2635032.95,
+      "transactionCount": 1075,
+      "customerCount": 15,
+      "productCount": 67,
+      "strength": 0.3277899284384197
+    },
+    "visualization": {
+      "lineWidth": 4,
+      "lineColor": "#ffcc00",
+      "opacity": 0.5966739570630518,
+      "dashArray": null,
+      "label": "CA → SC | $2.6M | 15 customers"
+    }
+  }
+]

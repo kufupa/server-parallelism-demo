@@ -1,0 +1,191 @@
+[
+  {
+    "id": 7,
+    "name": "Litware, Inc.",
+    "location": {
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "stateName": "California",
+      "country": "United States",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "metrics": {
+      "revenue": 116179331.95,
+      "customersServed": 663,
+      "productCount": 67,
+      "transactionCount": 46586,
+      "marketShare": 58.4453151625269
+    },
+    "visualization": {
+      "markerType": "star",
+      "markerSize": "xl",
+      "markerColor": "#ff0000",
+      "opacity": 0.9
+    }
+  },
+  {
+    "id": 4,
+    "name": "Fabrikam, Inc.",
+    "location": {
+      "city": "Lakeview Heights",
+      "state": "KY",
+      "stateName": "Kentucky",
+      "country": "United States",
+      "coordinates": {
+        "latitude": 38.1514705,
+        "longitude": -83.5043529
+      }
+    },
+    "metrics": {
+      "revenue": 53609896.15,
+      "customersServed": 663,
+      "productCount": 74,
+      "transactionCount": 50190,
+      "marketShare": 26.969059158177465
+    },
+    "visualization": {
+      "markerType": "star",
+      "markerSize": "xl",
+      "markerColor": "#ff0000",
+      "opacity": 0.9
+    }
+  },
+  {
+    "id": 10,
+    "name": "Northwind Electric Cars",
+    "location": {
+      "city": "Crandon Lakes",
+      "state": "NJ",
+      "stateName": "New Jersey",
+      "country": "United States",
+      "coordinates": {
+        "latitude": 41.1242627,
+        "longitude": -74.8398902
+      }
+    },
+    "metrics": {
+      "revenue": 17073779.75,
+      "customersServed": 663,
+      "productCount": 18,
+      "transactionCount": 16955,
+      "marketShare": 8.589156278965158
+    },
+    "visualization": {
+      "markerType": "star",
+      "markerSize": "xl",
+      "markerColor": "#ff0000",
+      "opacity": 0.9
+    }
+  },
+  {
+    "id": 12,
+    "name": "The Phone Company",
+    "location": {
+      "city": "Karlstad",
+      "state": "MN",
+      "stateName": "Minnesota",
+      "country": "United States",
+      "coordinates": {
+        "latitude": 48.5774764,
+        "longitude": -96.5205968
+      }
+    },
+    "metrics": {
+      "revenue": 6650491.21,
+      "customersServed": 663,
+      "productCount": 15,
+      "transactionCount": 14526,
+      "marketShare": 3.345604146883416
+    },
+    "visualization": {
+      "markerType": "star",
+      "markerSize": "xl",
+      "markerColor": "#ff0000",
+      "opacity": 0.9
+    }
+  },
+  {
+    "id": 5,
+    "name": "Graphic Design Institute",
+    "location": {
+      "city": "Lanagan",
+      "state": "MO",
+      "stateName": "Missouri",
+      "country": "United States",
+      "coordinates": {
+        "latitude": 36.608128,
+        "longitude": -94.4477164
+      }
+    },
+    "metrics": {
+      "revenue": 3659789.9,
+      "customersServed": 663,
+      "productCount": 42,
+      "transactionCount": 34182,
+      "marketShare": 1.8410983308648026
+    },
+    "visualization": {
+      "markerType": "star",
+      "markerSize": "xl",
+      "markerColor": "#ff0000",
+      "opacity": 0.9
+    }
+  },
+  {
+    "id": 1,
+    "name": "A Datum Corporation",
+    "location": {
+      "city": "Zionsville",
+      "state": "IN",
+      "stateName": "Indiana",
+      "country": "United States",
+      "coordinates": {
+        "latitude": 39.9508733,
+        "longitude": -86.261937
+      }
+    },
+    "metrics": {
+      "revenue": 1291984.32,
+      "customersServed": 513,
+      "productCount": 8,
+      "transactionCount": 1016,
+      "marketShare": 0.6499471937051624
+    },
+    "visualization": {
+      "markerType": "star",
+      "markerSize": "xl",
+      "markerColor": "#ff0000",
+      "opacity": 0.9
+    }
+  },
+  {
+    "id": 2,
+    "name": "Contoso, Ltd.",
+    "location": {
+      "city": "Greenbank",
+      "state": "WA",
+      "stateName": "Washington",
+      "country": "United States",
+      "coordinates": {
+        "latitude": 48.0981503,
+        "longitude": -122.5729351
+      }
+    },
+    "metrics": {
+      "revenue": 317694.4,
+      "customersServed": 648,
+      "productCount": 3,
+      "transactionCount": 3099,
+      "marketShare": 0.15981972887708526
+    },
+    "visualization": {
+      "markerType": "star",
+      "markerSize": "xl",
+      "markerColor": "#ff0000",
+      "opacity": 0.9
+    }
+  }
+]

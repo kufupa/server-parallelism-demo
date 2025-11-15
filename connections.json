@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "supplier-7-customer-149-0",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 149,
+      "name": "Customer-149-8-192",
+      "city": "Inguadona",
+      "state": "MN",
+      "coordinates": {
+        "latitude": 46.9832886,
+        "longitude": -94.1302482
+      }
+    },
+    "metrics": {
+      "volume": 312211.64,
+      "transactionCount": 86,
+      "productCount": 58,
+      "strength": 1
+    },
+    "visualization": {
+      "lineWidth": 12,
+      "lineColor": "#ff6600",
+      "opacity": 1,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-149-8-192 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-977-1",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 977,
+      "name": "Customer-977-8-816",
+      "city": "North Eaton",
+      "state": "OH",
+      "coordinates": {
+        "latitude": 41.3133839,
+        "longitude": -81.9812516
+      }
+    },
+    "metrics": {
+      "volume": 299271.57,
+      "transactionCount": 80,
+      "productCount": 56,
+      "strength": 0.9585535311880108
+    },
+    "visualization": {
+      "lineWidth": 12,
+      "lineColor": "#ff6600",
+      "opacity": 0.9751321187128065,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-977-8-816 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-964-2",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 964,
+      "name": "Customer-964-8-712",
+      "city": "Trilby",
+      "state": "FL",
+      "coordinates": {
+        "latitude": 28.4624986,
+        "longitude": -82.1948076
+      }
+    },
+    "metrics": {
+      "volume": 290334.84,
+      "transactionCount": 96,
+      "productCount": 60,
+      "strength": 0.9299295823820022
+    },
+    "visualization": {
+      "lineWidth": 12,
+      "lineColor": "#ff6600",
+      "opacity": 0.9579577494292013,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-964-8-712 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-14-3",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 14,
+      "name": "Customer-14-8-112",
+      "city": "Long Meadow",
+      "state": "MD",
+      "coordinates": {
+        "latitude": 39.6862063,
+        "longitude": -77.7122154
+      }
+    },
+    "metrics": {
+      "volume": 272761.08,
+      "transactionCount": 74,
+      "productCount": 57,
+      "strength": 0.8736416105434122
+    },
+    "visualization": {
+      "lineWidth": 11,
+      "lineColor": "#ff6600",
+      "opacity": 0.9241849663260473,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-14-8-112 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-510-4",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 510,
+      "name": "Customer-510-8-80",
+      "city": "Grabill",
+      "state": "IN",
+      "coordinates": {
+        "latitude": 41.2108829,
+        "longitude": -84.9669112
+      }
+    },
+    "metrics": {
+      "volume": 272333.88,
+      "transactionCount": 81,
+      "productCount": 59,
+      "strength": 0.8722733079394477
+    },
+    "visualization": {
+      "lineWidth": 11,
+      "lineColor": "#ff6600",
+      "opacity": 0.9233639847636687,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-510-8-80 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-550-5",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 550,
+      "name": "Customer-550-8-400",
+      "city": "Morrison Bluff",
+      "state": "AR",
+      "coordinates": {
+        "latitude": 35.387863,
+        "longitude": -93.5285202
+      }
+    },
+    "metrics": {
+      "volume": 270246.02,
+      "transactionCount": 77,
+      "productCount": 54,
+      "strength": 0.8655859851990144
+    },
+    "visualization": {
+      "lineWidth": 11,
+      "lineColor": "#ff6600",
+      "opacity": 0.9193515911194087,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-550-8-400 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-949-6",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 949,
+      "name": "Customer-949-8-592",
+      "city": "Jones Creek",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 28.9685817,
+        "longitude": -95.4552208
+      }
+    },
+    "metrics": {
+      "volume": 267281.71,
+      "transactionCount": 85,
+      "productCount": 59,
+      "strength": 0.8560914320811358
+    },
+    "visualization": {
+      "lineWidth": 11,
+      "lineColor": "#ff6600",
+      "opacity": 0.9136548592486815,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-949-8-592 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-996-7",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 996,
+      "name": "Customer-996-8-968",
+      "city": "Marion Hill",
+      "state": "PA",
+      "coordinates": {
+        "latitude": 40.7303435,
+        "longitude": -80.2958956
+      }
+    },
+    "metrics": {
+      "volume": 266803.73,
+      "transactionCount": 79,
+      "productCount": 52,
+      "strength": 0.8545604833951738
+    },
+    "visualization": {
+      "lineWidth": 11,
+      "lineColor": "#ff6600",
+      "opacity": 0.9127362900371042,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-996-8-968 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-415-8",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 415,
+      "name": "Customer-415-8-320",
+      "city": "Leathersville",
+      "state": "GA",
+      "coordinates": {
+        "latitude": 33.7167949,
+        "longitude": -82.4398499
+      }
+    },
+    "metrics": {
+      "volume": 266715.56,
+      "transactionCount": 86,
+      "productCount": 51,
+      "strength": 0.8542780788057741
+    },
+    "visualization": {
+      "lineWidth": 11,
+      "lineColor": "#ff6600",
+      "opacity": 0.9125668472834645,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-415-8-320 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-874-9",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 874,
+      "name": "Customer-874-8-992",
+      "city": "Mamou",
+      "state": "LA",
+      "coordinates": {
+        "latitude": 30.6338092,
+        "longitude": -92.4192993
+      }
+    },
+    "metrics": {
+      "volume": 266280.24,
+      "transactionCount": 82,
+      "productCount": 57,
+      "strength": 0.8528837682028767
+    },
+    "visualization": {
+      "lineWidth": 11,
+      "lineColor": "#ff6600",
+      "opacity": 0.911730260921726,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-874-8-992 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-478-10",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 478,
+      "name": "Customer-478-8-824",
+      "city": "Stoneboro",
+      "state": "PA",
+      "coordinates": {
+        "latitude": 41.3392232,
+        "longitude": -80.1050604
+      }
+    },
+    "metrics": {
+      "volume": 265755.96,
+      "transactionCount": 72,
+      "productCount": 58,
+      "strength": 0.8512045226757081
+    },
+    "visualization": {
+      "lineWidth": 11,
+      "lineColor": "#ff6600",
+      "opacity": 0.9107227136054249,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-478-8-824 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-170-11",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 170,
+      "name": "Customer-170-8-360",
+      "city": "Eastchester",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 40.8884329,
+        "longitude": -73.8281895
+      }
+    },
+    "metrics": {
+      "volume": 264523.04,
+      "transactionCount": 82,
+      "productCount": 54,
+      "strength": 0.8472555347391916
+    },
+    "visualization": {
+      "lineWidth": 11,
+      "lineColor": "#ff6600",
+      "opacity": 0.9083533208435149,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-170-8-360 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-569-12",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 569,
+      "name": "Customer-569-8-552",
+      "city": "West Frostproof",
+      "state": "FL",
+      "coordinates": {
+        "latitude": 27.733641,
+        "longitude": -81.5831327
+      }
+    },
+    "metrics": {
+      "volume": 263908.36,
+      "transactionCount": 103,
+      "productCount": 59,
+      "strength": 0.8452867420317832
+    },
+    "visualization": {
+      "lineWidth": 11,
+      "lineColor": "#ff6600",
+      "opacity": 0.9071720452190699,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-569-8-552 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-593-13",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 593,
+      "name": "Customer-593-8-744",
+      "city": "Cuyamungue",
+      "state": "NM",
+      "coordinates": {
+        "latitude": 35.8697483,
+        "longitude": -106.0041892
+      }
+    },
+    "metrics": {
+      "volume": 263518.32,
+      "transactionCount": 83,
+      "productCount": 57,
+      "strength": 0.8440374612554483
+    },
+    "visualization": {
+      "lineWidth": 11,
+      "lineColor": "#ff6600",
+      "opacity": 0.906422476753269,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-593-8-744 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-834-14",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 834,
+      "name": "Customer-834-8-672",
+      "city": "Palatine Bridge",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 42.9109064,
+        "longitude": -74.5740296
+      }
+    },
+    "metrics": {
+      "volume": 261952.88,
+      "transactionCount": 78,
+      "productCount": 52,
+      "strength": 0.8390234265448911
+    },
+    "visualization": {
+      "lineWidth": 11,
+      "lineColor": "#ff6600",
+      "opacity": 0.9034140559269347,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-834-8-672 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-81-15",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 81,
+      "name": "Customer-81-8-648",
+      "city": "Big Moose",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 43.8183991,
+        "longitude": -74.9151774
+      }
+    },
+    "metrics": {
+      "volume": 260827.56,
+      "transactionCount": 75,
+      "productCount": 53,
+      "strength": 0.8354190766237927
+    },
+    "visualization": {
+      "lineWidth": 11,
+      "lineColor": "#ff6600",
+      "opacity": 0.9012514459742756,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-81-8-648 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-841-16",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 841,
+      "name": "Customer-841-8-728",
+      "city": "Abbottsburg",
+      "state": "NC",
+      "coordinates": {
+        "latitude": 34.517114,
+        "longitude": -78.7250179
+      }
+    },
+    "metrics": {
+      "volume": 258820.81,
+      "transactionCount": 83,
+      "productCount": 61,
+      "strength": 0.8289915456066916
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8973949273640149,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-841-8-728 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-472-17",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 472,
+      "name": "Customer-472-8-776",
+      "city": "San Jacinto",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 33.7839084,
+        "longitude": -116.958635
+      }
+    },
+    "metrics": {
+      "volume": 256186.88,
+      "transactionCount": 82,
+      "productCount": 56,
+      "strength": 0.8205551849380119
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8923331109628072,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-472-8-776 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-1001-18",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 1001,
+      "name": "Customer-1001-8-8",
+      "city": "Dorchester",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 33.5303861,
+        "longitude": -96.6894367
+      }
+    },
+    "metrics": {
+      "volume": 250919.65,
+      "transactionCount": 86,
+      "productCount": 61,
+      "strength": 0.8036844814626386
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8822106888775831,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-1001-8-8 | $0.3M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-198-19",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 198,
+      "name": "Customer-198-8-584",
+      "city": "Buell",
+      "state": "MO",
+      "coordinates": {
+        "latitude": 39.0342075,
+        "longitude": -91.4390477
+      }
+    },
+    "metrics": {
+      "volume": 249838.28,
+      "transactionCount": 86,
+      "productCount": 56,
+      "strength": 0.800220901437243
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8801325408623458,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-198-8-584 | $0.2M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-580-20",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 580,
+      "name": "Customer-580-8-640",
+      "city": "Sarversville",
+      "state": "PA",
+      "coordinates": {
+        "latitude": 40.7195095,
+        "longitude": -79.7556061
+      }
+    },
+    "metrics": {
+      "volume": 248932.59,
+      "transactionCount": 84,
+      "productCount": 55,
+      "strength": 0.7973200166399945
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8783920099839967,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-580-8-640 | $0.2M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-870-21",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 870,
+      "name": "Customer-870-8-960",
+      "city": "Meadowdale",
+      "state": "WA",
+      "coordinates": {
+        "latitude": 47.852874,
+        "longitude": -122.3334669
+      }
+    },
+    "metrics": {
+      "volume": 248134.55,
+      "transactionCount": 68,
+      "productCount": 51,
+      "strength": 0.7947639300059408
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8768583580035645,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-870-8-960 | $0.2M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-861-22",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 861,
+      "name": "Customer-861-8-888",
+      "city": "North Brookfield",
+      "state": "MA",
+      "coordinates": {
+        "latitude": 42.2667587,
+        "longitude": -72.0828545
+      }
+    },
+    "metrics": {
+      "volume": 247917.57,
+      "transactionCount": 76,
+      "productCount": 51,
+      "strength": 0.7940689527142549
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.876441371628553,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-861-8-888 | $0.2M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-132-23",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 132,
+      "name": "Customer-132-8-56",
+      "city": "Minidoka",
+      "state": "ID",
+      "coordinates": {
+        "latitude": 42.7537967,
+        "longitude": -113.4902829
+      }
+    },
+    "metrics": {
+      "volume": 247822.51,
+      "transactionCount": 89,
+      "productCount": 59,
+      "strength": 0.7937644797612287
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8762586878567372,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-132-8-56 | $0.2M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-954-24",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 954,
+      "name": "Customer-954-8-632",
+      "city": "Mary Esther",
+      "state": "FL",
+      "coordinates": {
+        "latitude": 30.4099215,
+        "longitude": -86.6630098
+      }
+    },
+    "metrics": {
+      "volume": 247610.39,
+      "transactionCount": 83,
+      "productCount": 60,
+      "strength": 0.7930850688334362
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8758510413000618,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-954-8-632 | $0.2M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-480-25",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 480,
+      "name": "Customer-480-8-840",
+      "city": "Wapinitia",
+      "state": "OR",
+      "coordinates": {
+        "latitude": 45.1142837,
+        "longitude": -121.2564517
+      }
+    },
+    "metrics": {
+      "volume": 246168.91,
+      "transactionCount": 78,
+      "productCount": 55,
+      "strength": 0.7884680724908271
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8730808434944962,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-480-8-840 | $0.2M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-558-26",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 558,
+      "name": "Customer-558-8-464",
+      "city": "Bourneville",
+      "state": "OH",
+      "coordinates": {
+        "latitude": 39.2820094,
+        "longitude": -83.1565742
+      }
+    },
+    "metrics": {
+      "volume": 244230.56,
+      "transactionCount": 89,
+      "productCount": 59,
+      "strength": 0.7822596236322258
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8693557741793354,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-558-8-464 | $0.2M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-109-27",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 109,
+      "name": "Customer-109-8-872",
+      "city": "South Laguna",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 33.5005827,
+        "longitude": -117.7431097
+      }
+    },
+    "metrics": {
+      "volume": 242878.18,
+      "transactionCount": 66,
+      "productCount": 50,
+      "strength": 0.7779280106276626
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8667568063765976,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-109-8-872 | $0.2M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-32-28",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 32,
+      "name": "Customer-32-8-256",
+      "city": "Maypearl",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 32.3132003,
+        "longitude": -97.0116691
+      }
+    },
+    "metrics": {
+      "volume": 241786.76,
+      "transactionCount": 91,
+      "productCount": 58,
+      "strength": 0.7744322408991542
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8646593445394926,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-32-8-256 | $0.2M"
+    }
+  },
+  {
+    "id": "supplier-7-customer-10-29",
+    "type": "supplier_to_customer",
+    "from": {
+      "type": "supplier",
+      "id": 7,
+      "name": "Litware, Inc.",
+      "city": "Mokelumne Hill",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 38.3004709,
+        "longitude": -120.7063219
+      }
+    },
+    "to": {
+      "type": "customer",
+      "id": 10,
+      "name": "Customer-10-8-80",
+      "city": "Wimbledon",
+      "state": "ND",
+      "coordinates": {
+        "latitude": 47.1697143,
+        "longitude": -98.4598177
+      }
+    },
+    "metrics": {
+      "volume": 240999.15,
+      "transactionCount": 79,
+      "productCount": 56,
+      "strength": 0.771909561091316
+    },
+    "visualization": {
+      "lineWidth": 10,
+      "lineColor": "#ff6600",
+      "opacity": 0.8631457366547897,
+      "dashArray": null,
+      "label": "Litware, Inc. → Customer-10-8-80 | $0.2M"
+    }
+  }
+]
