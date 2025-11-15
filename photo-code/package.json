@@ -1,0 +1,20 @@
+{
+  "name": "photo-code",
+  "version": "1.0.0",
+  "description": "TypeScript utilities for fetching and processing photo data from WideWorldImporters database",
+  "main": "dist/fetchPhotos.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/fetchPhotos.js",
+    "dev": "ts-node fetchPhotos.ts"
+  },
+  "dependencies": {
+    "mssql": "^9.2.1"
+  },
+  "devDependencies": {
+    "@types/mssql": "^9.1.8",
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}

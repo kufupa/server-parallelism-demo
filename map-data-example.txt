@@ -1,0 +1,1 @@
+Error: The type "geography" is not comparable. It cannot be used in the GROUP BY clause.

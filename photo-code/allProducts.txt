@@ -1,0 +1,2403 @@
+
+========================================================================================================================
+📦 ALL PRODUCTS IN WAREHOUSE (UNIQUE)
+========================================================================================================================
+
+Total Unique Products: 227
+
+1. Hydrochloric Acid
+   Product ID: 1
+   Unit Price: $25
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+2. Sodium Hydroxide
+   Product ID: 2
+   Unit Price: $25
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Color: Steel Gray
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+3. Sulfuric Acid
+   Product ID: 3
+   Unit Price: $18.5
+   Categories: Food Additives, Industrial Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 0.25 g
+   Chiller Required: No
+
+4. Ethanol
+   Product ID: 4
+   Unit Price: $32
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.05 g
+   Chiller Required: No
+
+5. Hydrogen Peroxide
+   Product ID: 5
+   Unit Price: $32
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.05 g
+   Chiller Required: No
+
+6. Methanol
+   Product ID: 6
+   Unit Price: $32
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.05 g
+   Chiller Required: No
+
+7. Acetone
+   Product ID: 7
+   Unit Price: $32
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.05 g
+   Chiller Required: No
+
+8. Ammonia
+   Product ID: 8
+   Unit Price: $240
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Package Type: Packet
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.5 g
+   Chiller Required: No
+
+9. Acetic Acid
+   Product ID: 9
+   Unit Price: $32
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.05 g
+   Chiller Required: No
+
+10. Potassium Chloride
+   Product ID: 10
+   Unit Price: $32
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.05 g
+   Chiller Required: No
+
+11. Calcium Carbonate
+   Product ID: 11
+   Unit Price: $32
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.05 g
+   Chiller Required: No
+
+12. Magnesium Sulfate
+   Product ID: 12
+   Unit Price: $32
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.05 g
+   Chiller Required: No
+
+13. Aluminum Oxide
+   Product ID: 13
+   Unit Price: $32
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.05 g
+   Chiller Required: No
+
+14. Zinc Chloride
+   Product ID: 14
+   Unit Price: $32
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.05 g
+   Chiller Required: No
+
+15. Iron(III) Chloride
+   Product ID: 15
+   Unit Price: $240
+   Categories: Cosmetic Ingredients, Food Additives, Industrial Chemicals
+   Package Type: Packet
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.5 g
+   Chiller Required: No
+
+16. Copper(II) Sulfate
+   Product ID: 16
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+17. Manganese Dioxide
+   Product ID: 17
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+18. Silver Nitrate
+   Product ID: 18
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+19. Gold(III) Chloride
+   Product ID: 19
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+20. Titanium Dioxide
+   Product ID: 20
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+21. Nickel(II) Chloride
+   Product ID: 21
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+22. Cobalt(II) Chloride
+   Product ID: 22
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+23. Chromium(III) Oxide
+   Product ID: 23
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+24. Isopropyl Alcohol
+   Product ID: 24
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+25. Formaldehyde
+   Product ID: 25
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+26. Toluene
+   Product ID: 26
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+27. Benzene
+   Product ID: 27
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+28. Hexane
+   Product ID: 28
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+29. Xylene
+   Product ID: 29
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+30. Methylene Chloride
+   Product ID: 30
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+31. Chloroform
+   Product ID: 31
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+32. Carbon Tetrachloride
+   Product ID: 32
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+33. Diethyl Ether
+   Product ID: 33
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+34. Tetrahydrofuran
+   Product ID: 34
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+35. Dimethyl Sulfoxide
+   Product ID: 35
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+36. N,N-Dimethylformamide
+   Product ID: 36
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+37. Acetonitrile
+   Product ID: 37
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+38. Ethyl Acetate
+   Product ID: 38
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+39. Butyl Acetate
+   Product ID: 39
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+40. Glycerol
+   Product ID: 40
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+41. Propylene Glycol
+   Product ID: 41
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+42. Ethylene Glycol
+   Product ID: 42
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+43. Phenol
+   Product ID: 43
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+44. Benzoic Acid
+   Product ID: 44
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+45. Salicylic Acid
+   Product ID: 45
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+46. Citric Acid
+   Product ID: 46
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+47. Lactic Acid
+   Product ID: 47
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+48. Tartaric Acid
+   Product ID: 48
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+49. Ascorbic Acid
+   Product ID: 49
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+50. Boric Acid
+   Product ID: 50
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+51. Phosphoric Acid
+   Product ID: 51
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+52. Nitric Acid
+   Product ID: 52
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+53. Perchloric Acid
+   Product ID: 53
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+54. Ammonium Chloride
+   Product ID: 54
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+55. Ammonium Sulfate
+   Product ID: 55
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+56. Ammonium Nitrate
+   Product ID: 56
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+57. Potassium Nitrate
+   Product ID: 57
+   Unit Price: $13
+   Categories: Food Additives, Industrial Chemicals, Laboratory Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.15 g
+   Chiller Required: No
+
+58. Potassium Permanganate
+   Product ID: 58
+   Brand: Northwind
+   Size: 1/50 scale
+   Unit Price: $25
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 1.5 g
+   Chiller Required: No
+
+59. Potassium Dichromate
+   Product ID: 59
+   Brand: Northwind
+   Size: 1/50 scale
+   Unit Price: $25
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Red
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 1.5 g
+   Chiller Required: No
+
+60. Potassium Iodide
+   Product ID: 60
+   Brand: Northwind
+   Size: 1/50 scale
+   Unit Price: $25
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 1.5 g
+   Chiller Required: No
+
+61. Sodium Bicarbonate
+   Product ID: 61
+   Brand: Northwind
+   Size: 1/50 scale
+   Unit Price: $25
+   Categories: Industrial Chemicals, Paint Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 1.5 g
+   Chiller Required: No
+
+62. Sodium Carbonate
+   Product ID: 62
+   Brand: Northwind
+   Size: 1/50 scale
+   Unit Price: $25
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Yellow
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 1.5 g
+   Chiller Required: No
+
+63. Sodium Phosphate
+   Product ID: 63
+   Brand: Northwind
+   Size: 1/50 scale
+   Unit Price: $25
+   Categories: Industrial Chemicals, Paint Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 1.5 g
+   Chiller Required: No
+
+64. Sodium Sulfate
+   Product ID: 64
+   Brand: Northwind
+   Size: 1/50 scale
+   Unit Price: $30
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Red
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 1.7 g
+   Chiller Required: No
+
+65. Calcium Chloride
+   Product ID: 65
+   Brand: Northwind
+   Size: 1/50 scale
+   Unit Price: $30
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 1.7 g
+   Chiller Required: No
+
+66. Calcium Oxide
+   Product ID: 66
+   Brand: Northwind
+   Size: 1/50 scale
+   Unit Price: $45
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 1.8 g
+   Chiller Required: No
+
+67. Calcium Hydroxide
+   Product ID: 67
+   Brand: Northwind
+   Size: 1/12 scale
+   Unit Price: $230
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 15 g
+   Chiller Required: No
+
+68. Magnesium Chloride
+   Product ID: 68
+   Brand: Northwind
+   Size: 1/12 scale
+   Unit Price: $230
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Red
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 15 g
+   Chiller Required: No
+
+69. Magnesium Oxide
+   Product ID: 69
+   Brand: Northwind
+   Size: 1/12 scale
+   Unit Price: $230
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 15 g
+   Chiller Required: No
+
+70. Lithium Chloride
+   Product ID: 70
+   Brand: Northwind
+   Size: 1/12 scale
+   Unit Price: $230
+   Categories: Industrial Chemicals, Paint Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 15 g
+   Chiller Required: No
+
+71. Lithium Hydroxide
+   Product ID: 71
+   Brand: Northwind
+   Size: 1/12 scale
+   Unit Price: $230
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Yellow
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 15 g
+   Chiller Required: No
+
+72. Barium Chloride
+   Product ID: 72
+   Brand: Northwind
+   Size: 1/12 scale
+   Unit Price: $230
+   Categories: Industrial Chemicals, Paint Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 15 g
+   Chiller Required: No
+
+73. Barium Sulfate
+   Product ID: 73
+   Brand: Northwind
+   Size: 1/12 scale
+   Unit Price: $285
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Red
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 18 g
+   Chiller Required: No
+
+74. Strontium Chloride
+   Product ID: 74
+   Brand: Northwind
+   Size: 1/12 scale
+   Unit Price: $285
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 18 g
+   Chiller Required: No
+
+75. Cesium Chloride
+   Product ID: 75
+   Brand: Northwind
+   Size: 1/12 scale
+   Unit Price: $345
+   Categories: Industrial Chemicals, Paint Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 21 g
+   Chiller Required: No
+
+76. Rubidium Chloride
+   Product ID: 76
+   Size: 3XS
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.25 g
+   Chiller Required: No
+
+77. Urea
+   Product ID: 77
+   Size: XXS
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.25 g
+   Chiller Required: No
+
+78. Glucose
+   Product ID: 78
+   Size: XS
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.25 g
+   Chiller Required: No
+
+79. Fructose
+   Product ID: 79
+   Size: S
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+80. Sucrose
+   Product ID: 80
+   Size: M
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+81. Maltose
+   Product ID: 81
+   Size: L
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+82. Lactose
+   Product ID: 82
+   Size: XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+83. Cellulose
+   Product ID: 83
+   Size: XXL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+84. Starch
+   Product ID: 84
+   Size: 3XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+85. Glycine
+   Product ID: 85
+   Size: 4XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+86. Alanine
+   Product ID: 86
+   Size: 5XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+87. Lysine
+   Product ID: 87
+   Size: 6XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+88. Arginine
+   Product ID: 88
+   Size: 7XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: White
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.45 g
+   Chiller Required: No
+
+89. Histidine
+   Product ID: 89
+   Size: 3XS
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.25 g
+   Chiller Required: No
+
+90. Glutamic Acid
+   Product ID: 90
+   Size: XXS
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.25 g
+   Chiller Required: No
+
+91. Aspartic Acid
+   Product ID: 91
+   Size: XS
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.25 g
+   Chiller Required: No
+
+92. Cysteine
+   Product ID: 92
+   Size: S
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+93. Methionine
+   Product ID: 93
+   Size: M
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+94. Polyethylene Glycol
+   Product ID: 94
+   Size: L
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+95. Polyvinyl Alcohol
+   Product ID: 95
+   Size: XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+96. Polyacrylamide
+   Product ID: 96
+   Size: XXL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+97. Sodium Lauryl Sulfate
+   Product ID: 97
+   Size: 3XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+98. Tween 20
+   Product ID: 98
+   Size: 4XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+99. Triton X-100
+   Product ID: 99
+   Size: 5XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+100. Sodium Chloride Alpha
+   Product ID: 100
+   Size: 6XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+101. Hydrochloric Acid Alpha
+   Product ID: 101
+   Size: 7XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Food Additives, Raw Materials
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.45 g
+   Chiller Required: No
+
+102. Sodium Hydroxide Alpha
+   Product ID: 102
+   Size: XL
+   Unit Price: $35
+   Categories: Cleaning Solutions
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+103. Sulfuric Acid Alpha
+   Product ID: 103
+   Size: XXL
+   Unit Price: $35
+   Categories: Cleaning Solutions
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+104. Ethanol Alpha
+   Product ID: 104
+   Size: 3XL
+   Unit Price: $35
+   Categories: Cleaning Solutions
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+105. Hydrogen Peroxide Alpha
+   Product ID: 105
+   Size: 4XL
+   Unit Price: $35
+   Categories: Cleaning Solutions
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+106. Methanol Alpha
+   Product ID: 106
+   Size: 5XL
+   Unit Price: $35
+   Categories: Cleaning Solutions
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+107. Acetone Alpha
+   Product ID: 107
+   Size: 3XS
+   Unit Price: $25
+   Categories: Cleaning Solutions
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+108. Ammonia Alpha
+   Product ID: 108
+   Size: XXS
+   Unit Price: $25
+   Categories: Cleaning Solutions
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+109. Acetic Acid Alpha
+   Product ID: 109
+   Size: XS
+   Unit Price: $25
+   Categories: Cleaning Solutions
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+110. Potassium Chloride Alpha
+   Product ID: 110
+   Size: S
+   Unit Price: $25
+   Categories: Cleaning Solutions
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+111. Calcium Carbonate Alpha
+   Product ID: 111
+   Size: M
+   Unit Price: $30
+   Categories: Cleaning Solutions
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+112. Magnesium Sulfate Alpha
+   Product ID: 112
+   Size: L
+   Unit Price: $30
+   Categories: Cleaning Solutions
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+113. Aluminum Oxide Alpha
+   Product ID: 113
+   Size: XL
+   Unit Price: $30
+   Categories: Cleaning Solutions
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+114. Zinc Chloride Alpha
+   Product ID: 114
+   Size: XXL
+   Unit Price: $30
+   Categories: Cleaning Solutions
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+115. Iron(III) Chloride Alpha
+   Product ID: 115
+   Size: 3XL
+   Unit Price: $34
+   Categories: Cleaning Solutions
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+116. Copper(II) Sulfate Alpha
+   Product ID: 116
+   Size: 4XL
+   Unit Price: $34
+   Categories: Cleaning Solutions
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+117. Manganese Dioxide Alpha
+   Product ID: 117
+   Size: 5XL
+   Unit Price: $34
+   Categories: Cleaning Solutions
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+118. Silver Nitrate Alpha
+   Product ID: 118
+   Size: S
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+119. Gold(III) Chloride Alpha
+   Product ID: 119
+   Size: M
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+120. Titanium Dioxide Alpha
+   Product ID: 120
+   Size: L
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+121. Nickel(II) Chloride Alpha
+   Product ID: 121
+   Size: XL
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+122. Cobalt(II) Chloride Alpha
+   Product ID: 122
+   Size: S
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+123. Chromium(III) Oxide Alpha
+   Product ID: 123
+   Size: M
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+124. Isopropyl Alcohol Alpha
+   Product ID: 124
+   Size: L
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+125. Formaldehyde Alpha
+   Product ID: 125
+   Size: XL
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+126. Toluene Alpha
+   Product ID: 126
+   Size: S
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Color: Steel Gray
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+127. Benzene Alpha
+   Product ID: 127
+   Size: M
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Color: Steel Gray
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+128. Hexane Alpha
+   Product ID: 128
+   Size: L
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Color: Steel Gray
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+129. Xylene Alpha
+   Product ID: 129
+   Size: XL
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Color: Steel Gray
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+130. Methylene Chloride Alpha
+   Product ID: 130
+   Size: S
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+131. Chloroform Alpha
+   Product ID: 131
+   Size: M
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+132. Carbon Tetrachloride Alpha
+   Product ID: 132
+   Size: L
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+133. Diethyl Ether Alpha
+   Product ID: 133
+   Size: XL
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+134. Tetrahydrofuran Alpha
+   Product ID: 134
+   Size: S
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+135. Dimethyl Sulfoxide Alpha
+   Product ID: 135
+   Size: M
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+136. N,N-Dimethylformamide Alpha
+   Product ID: 136
+   Size: L
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.35 g
+   Chiller Required: No
+
+137. Acetonitrile Alpha
+   Product ID: 137
+   Size: XL
+   Unit Price: $32
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+138. Ethyl Acetate Alpha
+   Product ID: 138
+   Size: S
+   Unit Price: $5
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Pair
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.1 g
+   Chiller Required: No
+
+139. Butyl Acetate Alpha
+   Product ID: 139
+   Size: M
+   Unit Price: $5
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Pair
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.1 g
+   Chiller Required: No
+
+140. Glycerol Alpha
+   Product ID: 140
+   Size: L
+   Unit Price: $5
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Pair
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.1 g
+   Chiller Required: No
+
+141. Propylene Glycol Alpha
+   Product ID: 141
+   Size: XL
+   Unit Price: $5
+   Categories: Cleaning Solutions, Pharmaceutical Compounds
+   Package Type: Pair
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.1 g
+   Chiller Required: No
+
+142. Ethylene Glycol Alpha
+   Product ID: 142
+   Size: S
+   Unit Price: $18
+   Categories: Cleaning Solutions, Industrial Chemicals
+   Color: Light Brown
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+143. Phenol Alpha
+   Product ID: 143
+   Size: M
+   Unit Price: $18
+   Categories: Cleaning Solutions, Industrial Chemicals
+   Color: Light Brown
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+144. Benzoic Acid Alpha
+   Product ID: 144
+   Size: L
+   Unit Price: $18
+   Categories: Cleaning Solutions, Industrial Chemicals
+   Color: Light Brown
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+145. Salicylic Acid Alpha
+   Product ID: 145
+   Size: XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Industrial Chemicals
+   Color: Light Brown
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+146. Citric Acid Alpha
+   Product ID: 146
+   Size: S
+   Unit Price: $18
+   Categories: Cleaning Solutions, Industrial Chemicals
+   Color: Steel Gray
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+147. Lactic Acid Alpha
+   Product ID: 147
+   Size: M
+   Unit Price: $18
+   Categories: Cleaning Solutions, Industrial Chemicals
+   Color: Steel Gray
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+148. Tartaric Acid Alpha
+   Product ID: 148
+   Size: L
+   Unit Price: $18
+   Categories: Cleaning Solutions, Industrial Chemicals
+   Color: Steel Gray
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+149. Ascorbic Acid Alpha
+   Product ID: 149
+   Size: XL
+   Unit Price: $18
+   Categories: Cleaning Solutions, Industrial Chemicals
+   Color: Steel Gray
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+150. Boric Acid Alpha
+   Product ID: 150
+   Unit Price: $16
+   Categories: Paint Chemicals
+   Package Type: Packet
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.25 g
+   Chiller Required: No
+
+151. Phosphoric Acid Alpha
+   Product ID: 151
+   Unit Price: $16
+   Categories: Paint Chemicals
+   Package Type: Packet
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.25 g
+   Chiller Required: No
+
+152. Nitric Acid Alpha
+   Product ID: 152
+   Unit Price: $16
+   Categories: Paint Chemicals
+   Package Type: Packet
+   Quantity Per Outer: 1
+   Weight Per Unit: 0.25 g
+   Chiller Required: No
+
+153. Perchloric Acid Alpha
+   Product ID: 153
+   Size: 10m
+   Unit Price: $4.5
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 5 g
+   Chiller Required: No
+
+154. Ammonium Chloride Alpha
+   Product ID: 154
+   Size: 20m
+   Unit Price: $20
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 6 g
+   Chiller Required: No
+
+155. Ammonium Sulfate Alpha
+   Product ID: 155
+   Size: 50m
+   Unit Price: $24
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 10 g
+   Chiller Required: No
+
+156. Ammonium Nitrate Alpha
+   Product ID: 156
+   Size: 10m
+   Unit Price: $15
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 5 g
+   Chiller Required: No
+
+157. Potassium Nitrate Alpha
+   Product ID: 157
+   Size: 20m
+   Unit Price: $30
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 6 g
+   Chiller Required: No
+
+158. Potassium Permanganate Alpha
+   Product ID: 158
+   Size: 50m
+   Unit Price: $105
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 10 g
+   Chiller Required: No
+
+159. Potassium Dichromate Alpha
+   Product ID: 159
+   Size: 10m
+   Unit Price: $18
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 5 g
+   Chiller Required: No
+
+160. Potassium Iodide Alpha
+   Product ID: 160
+   Size: 20m
+   Unit Price: $33
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 6 g
+   Chiller Required: No
+
+161. Sodium Bicarbonate Alpha
+   Product ID: 161
+   Size: 50m
+   Unit Price: $108
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 10 g
+   Chiller Required: No
+
+162. Sodium Carbonate Alpha
+   Product ID: 162
+   Size: 10m
+   Unit Price: $22
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 5 g
+   Chiller Required: No
+
+163. Sodium Phosphate Alpha
+   Product ID: 163
+   Size: 20m
+   Unit Price: $37
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 6 g
+   Chiller Required: No
+
+164. Sodium Sulfate Alpha
+   Product ID: 164
+   Size: 50m
+   Unit Price: $112
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 10 g
+   Chiller Required: No
+
+165. Calcium Chloride Alpha
+   Product ID: 165
+   Size: 10m
+   Unit Price: $26
+   Categories: Specialty Chemicals
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 5 g
+   Chiller Required: No
+
+166. Calcium Oxide Alpha
+   Product ID: 166
+   Size: 20m
+   Unit Price: $42
+   Categories: Specialty Chemicals
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 6 g
+   Chiller Required: No
+
+167. Calcium Hydroxide Alpha
+   Product ID: 167
+   Size: 50m
+   Unit Price: $99
+   Categories: Specialty Chemicals
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 10 g
+   Chiller Required: No
+
+168. Magnesium Chloride Alpha
+   Product ID: 168
+   Size: 10m
+   Unit Price: $29
+   Categories: Specialty Chemicals
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 5 g
+   Chiller Required: No
+
+169. Magnesium Oxide Alpha
+   Product ID: 169
+   Size: 20m
+   Unit Price: $45
+   Categories: Specialty Chemicals
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 6 g
+   Chiller Required: No
+
+170. Lithium Chloride Alpha
+   Product ID: 170
+   Size: 50m
+   Unit Price: $102
+   Categories: Specialty Chemicals
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 10 g
+   Chiller Required: No
+
+171. Lithium Hydroxide Alpha
+   Product ID: 171
+   Size: 10m
+   Unit Price: $32
+   Categories: Specialty Chemicals
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 5 g
+   Chiller Required: No
+
+172. Barium Chloride Alpha
+   Product ID: 172
+   Size: 20m
+   Unit Price: $48
+   Categories: Specialty Chemicals
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 6 g
+   Chiller Required: No
+
+173. Barium Sulfate Alpha
+   Product ID: 173
+   Size: 50m
+   Unit Price: $105
+   Categories: Specialty Chemicals
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 10 g
+   Chiller Required: No
+
+174. Strontium Chloride Alpha
+   Product ID: 174
+   Size: 1.5m
+   Unit Price: $240
+   Categories: Specialty Chemicals
+   Color: Black
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 10 g
+   Chiller Required: No
+
+175. Cesium Chloride Alpha
+   Product ID: 175
+   Size: 1.5m
+   Unit Price: $240
+   Categories: Specialty Chemicals
+   Color: Blue
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 10 g
+   Chiller Required: No
+
+176. Rubidium Chloride Alpha
+   Product ID: 176
+   Size: 1.5m
+   Unit Price: $240
+   Categories: Specialty Chemicals
+   Color: Red
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 10 g
+   Chiller Required: No
+
+177. Urea Alpha
+   Product ID: 177
+   Size: 413x285x187mm
+   Unit Price: $1.05
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 25
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+178. Glucose Alpha
+   Product ID: 178
+   Size: 500x310x310mm
+   Unit Price: $2.55
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 25
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+179. Fructose Alpha
+   Product ID: 179
+   Size: 229x229x229mm
+   Unit Price: $1.05
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 25
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+180. Sucrose Alpha
+   Product ID: 180
+   Size: 279x254x217mm
+   Unit Price: $1.11
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 25
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+181. Maltose Alpha
+   Product ID: 181
+   Size: 356x229x229mm
+   Unit Price: $1.14
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 25
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+182. Lactose Alpha
+   Product ID: 182
+   Size: 457x279x279mm
+   Unit Price: $1.28
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 25
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+183. Cellulose Alpha
+   Product ID: 183
+   Size: 480x270x320mm
+   Unit Price: $2.74
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 25
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+184. Starch Alpha
+   Product ID: 184
+   Size: 305x305x305mm
+   Unit Price: $3.5
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 25
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+185. Glycine Alpha
+   Product ID: 185
+   Size: 356x356x279mm
+   Unit Price: $2.04
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 25
+   Weight Per Unit: 0.3 g
+   Chiller Required: No
+
+186. Alanine Alpha
+   Product ID: 186
+   Size: 457x457x457mm
+   Unit Price: $2.1
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 25
+   Weight Per Unit: 0.4 g
+   Chiller Required: No
+
+187. Lysine Alpha
+   Product ID: 187
+   Size: 350x280x130mm
+   Unit Price: $0.95
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 25
+   Weight Per Unit: 0.2 g
+   Chiller Required: No
+
+188. Arginine Alpha
+   Product ID: 188
+   Size: 300x190x95mm
+   Unit Price: $0.66
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 25
+   Weight Per Unit: 0.1 g
+   Chiller Required: No
+
+189. Histidine Alpha
+   Product ID: 189
+   Size: 48mmx75m
+   Unit Price: $2.9
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 26
+   Weight Per Unit: 0.5 g
+   Chiller Required: No
+
+190. Glutamic Acid Alpha
+   Product ID: 190
+   Size: 48mmx100m
+   Unit Price: $3.5
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 20
+   Weight Per Unit: 0.7 g
+   Chiller Required: No
+
+191. Aspartic Acid Alpha
+   Product ID: 191
+   Size: 48mmx75m
+   Unit Price: $3.7
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 36
+   Weight Per Unit: 0.5 g
+   Chiller Required: No
+
+192. Cysteine Alpha
+   Product ID: 192
+   Size: 48mmx100m
+   Unit Price: $4.1
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 36
+   Weight Per Unit: 0.7 g
+   Chiller Required: No
+
+193. Methionine Alpha
+   Product ID: 193
+   Size: 48mmx75m
+   Unit Price: $3.7
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.5 g
+   Chiller Required: No
+
+194. Polyethylene Glycol Alpha
+   Product ID: 194
+   Size: 48mmx100m
+   Unit Price: $4.1
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.7 g
+   Chiller Required: No
+
+195. Polyvinyl Alcohol Alpha
+   Product ID: 195
+   Size: 48mmx75m
+   Unit Price: $3.7
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.5 g
+   Chiller Required: No
+
+196. Polyacrylamide Alpha
+   Product ID: 196
+   Size: 48mmx100m
+   Unit Price: $4.1
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.7 g
+   Chiller Required: No
+
+197. Sodium Lauryl Sulfate Alpha
+   Product ID: 197
+   Size: 48mmx75m
+   Unit Price: $3.7
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.5 g
+   Chiller Required: No
+
+198. Tween 20 Alpha
+   Product ID: 198
+   Size: 48mmx100m
+   Unit Price: $4.1
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.7 g
+   Chiller Required: No
+
+199. Triton X-100 Alpha
+   Product ID: 199
+   Size: 48mmx75m
+   Unit Price: $3.7
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.5 g
+   Chiller Required: No
+
+200. Sodium Chloride Beta
+   Product ID: 200
+   Size: 48mmx100m
+   Unit Price: $4.1
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.7 g
+   Chiller Required: No
+
+201. Hydrochloric Acid Beta
+   Product ID: 201
+   Size: 48mmx75m
+   Unit Price: $3.7
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.5 g
+   Chiller Required: No
+
+202. Sodium Hydroxide Beta
+   Product ID: 202
+   Size: 48mmx100m
+   Unit Price: $4.1
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.7 g
+   Chiller Required: No
+
+203. Sulfuric Acid Beta
+   Product ID: 203
+   Unit Price: $32
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 1 g
+   Chiller Required: No
+
+204. Ethanol Beta
+   Product ID: 204
+   Unit Price: $32
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 1 g
+   Chiller Required: No
+
+205. Hydrogen Peroxide Beta
+   Product ID: 205
+   Unit Price: $32
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 1 g
+   Chiller Required: No
+
+206. Methanol Beta
+   Product ID: 206
+   Size: 5mm
+   Unit Price: $2.7
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.1 g
+   Chiller Required: No
+
+207. Acetone Beta
+   Product ID: 207
+   Size: 5mm
+   Unit Price: $2.7
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.1 g
+   Chiller Required: No
+
+208. Ammonia Beta
+   Product ID: 208
+   Size: 5mm
+   Unit Price: $2.7
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.1 g
+   Chiller Required: No
+
+209. Acetic Acid Beta
+   Product ID: 209
+   Size: 9mm
+   Unit Price: $1.89
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 5
+   Weight Per Unit: 0.5 g
+   Chiller Required: No
+
+210. Potassium Chloride Beta
+   Product ID: 210
+   Size: 18mm
+   Unit Price: $2.4
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 5
+   Weight Per Unit: 0.5 g
+   Chiller Required: No
+
+211. Calcium Carbonate Beta
+   Product ID: 211
+   Size: 9mm
+   Unit Price: $4.1
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 0.7 g
+   Chiller Required: No
+
+212. Magnesium Sulfate Beta
+   Product ID: 212
+   Size: 18mm
+   Unit Price: $4.3
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 0.8 g
+   Chiller Required: No
+
+213. Aluminum Oxide Beta
+   Product ID: 213
+   Size: 325m
+   Unit Price: $87
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 5 g
+   Chiller Required: No
+
+214. Zinc Chloride Beta
+   Product ID: 214
+   Size: 325m
+   Unit Price: $90
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 6 g
+   Chiller Required: No
+
+215. Iron(III) Chloride Beta
+   Product ID: 215
+   Unit Price: $1899
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 1
+   Weight Per Unit: 10 g
+   Chiller Required: No
+
+216. Copper(II) Sulfate Beta
+   Product ID: 216
+   Size: 100L
+   Unit Price: $12.5
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 0.25 g
+   Chiller Required: No
+
+217. Manganese Dioxide Beta
+   Product ID: 217
+   Size: 200L
+   Unit Price: $25
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 0.5 g
+   Chiller Required: No
+
+218. Silver Nitrate Beta
+   Product ID: 218
+   Size: 300L
+   Unit Price: $37.5
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 0.75 g
+   Chiller Required: No
+
+219. Gold(III) Chloride Beta
+   Product ID: 219
+   Size: 400L
+   Unit Price: $50
+   Categories: Specialty Chemicals
+   Package Type: Each
+   Quantity Per Outer: 10
+   Weight Per Unit: 1 g
+   Chiller Required: No
+
+220. Titanium Dioxide Beta
+   Product ID: 220
+   Size: 250g
+   Unit Price: $8.55
+   Categories: Industrial Chemicals
+   Package Type: Bag
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.25 g
+   Chiller Required: Yes
+
+221. Nickel(II) Chloride Beta
+   Product ID: 221
+   Size: 500g
+   Unit Price: $14.5
+   Categories: Industrial Chemicals
+   Package Type: Bag
+   Quantity Per Outer: 12
+   Weight Per Unit: 0.5 g
+   Chiller Required: Yes
+
+222. Cobalt(II) Chloride Beta
+   Product ID: 222
+   Size: 250g
+   Unit Price: $8.55
+   Categories: Industrial Chemicals
+   Package Type: Bag
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.25 g
+   Chiller Required: Yes
+
+223. Chromium(III) Oxide Beta
+   Product ID: 223
+   Size: 250g
+   Unit Price: $8.55
+   Categories: Industrial Chemicals
+   Package Type: Bag
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.25 g
+   Chiller Required: Yes
+
+224. Isopropyl Alcohol Beta
+   Product ID: 224
+   Size: 250g
+   Unit Price: $8.55
+   Categories: Industrial Chemicals
+   Package Type: Bag
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.25 g
+   Chiller Required: Yes
+
+225. Formaldehyde Beta
+   Product ID: 225
+   Size: 250g
+   Unit Price: $8.55
+   Categories: Industrial Chemicals
+   Package Type: Bag
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.25 g
+   Chiller Required: Yes
+
+226. Toluene Beta
+   Product ID: 226
+   Size: 250g
+   Unit Price: $8.55
+   Categories: Industrial Chemicals
+   Package Type: Bag
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.25 g
+   Chiller Required: Yes
+
+227. Benzene Beta
+   Product ID: 227
+   Size: 250g
+   Unit Price: $8.55
+   Categories: Industrial Chemicals
+   Package Type: Bag
+   Quantity Per Outer: 24
+   Weight Per Unit: 0.25 g
+   Chiller Required: Yes
+
+========================================================================================================================
+
+📊 PRODUCTS BY CATEGORY
+
+Industrial Chemicals: 91 products
+  Price Range: $8.55 - $345
+  Average Price: $45.97
+
+Food Additives: 83 products
+  Price Range: $13 - $240
+  Average Price: $22.68
+
+Cleaning Solutions: 74 products
+  Price Range: $5 - $35
+  Average Price: $23.91
+
+Specialty Chemicals: 67 products
+  Price Range: $0.66 - $1899
+  Average Price: $62.20
+
+Laboratory Chemicals: 42 products
+  Price Range: $13 - $13
+  Average Price: $13.00
+
+Raw Materials: 26 products
+  Price Range: $18 - $18
+  Average Price: $18.00
+
+Pharmaceutical Compounds: 24 products
+  Price Range: $5 - $32
+  Average Price: $27.50
+
+Paint Chemicals: 21 products
+  Price Range: $16 - $345
+  Average Price: $123.71
+
+Cosmetic Ingredients: 14 products
+  Price Range: $25 - $240
+  Average Price: $60.71
+
+========================================================================================================================
+
+✅ Total: 227 unique products in warehouse
+
